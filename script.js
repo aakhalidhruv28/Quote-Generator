@@ -15,7 +15,7 @@ const favoriteList = document.getElementById("favoriteList");
 const emptyFavoritesMsg = document.getElementById("empty-favorites-msg");
 
 // --- API & STATE ---
-const apiKey = "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"; // YOUR_API_KEY_HERE // Use environment variables in a real app! 
+const apiKey = "YOUR_API_KEY_HERE"; // YOUR_API_KEY_HERE // Use environment variables in a real app! 
 const model = "meta-llama/llama-3.3-70b-instruct:free";
 let currentQuote = "";
 let currentAuthor = "";
