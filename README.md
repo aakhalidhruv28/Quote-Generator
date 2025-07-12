@@ -1,6 +1,5 @@
 # Free ✨ AI-Powered Quote Generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/651e2545-2c81-47aa-9093-79113dd725e2/deploy-status)](https://app.netlify.com/projects/free-ai-quote-generator/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/aakhalidhruv28/Quote-Generator?style=social)](https://github.com/aakhalidhruv28/Quote-Generator/stargazers)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://free-ai-quote-generator.netlify.app/)
