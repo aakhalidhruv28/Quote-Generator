@@ -1,12 +1,13 @@
 # Free ✨ AI-Powered Quote Generator
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/651e2545-2c81-47aa-9093-79113dd725e2/deploy-status)](https://app.netlify.com/projects/free-ai-quote-generator/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/aakhalidhruv28/Quote-Generator?style=social)](https://github.com/aakhalidhruv28/Quote-Generator/stargazers)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://aakhalidhruv28.github.io/Quote-Generator/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://free-ai-quote-generator.netlify.app/)
 
 QuoteSphere is a modern, feature-rich quote generator that leverages the power of AI to create unique and inspiring quotes on demand. With a sleek, responsive design, theme-switching capabilities, and a robust set of user tools, it provides a seamless and enjoyable user experience.
 
-### **[➡️ View the Live Demo](https://aakhalidhruv28.github.io/Quote-Generator/)**
+### **[➡️ View the Live Demo](https://free-ai-quote-generator.netlify.app/)**
 
 ## 📸 Screenshots
 
