@@ -34,7 +34,7 @@ QuoteSphere is a modern, feature-rich quote generator that leverages the power o
         3. Replace the placeholder link below with the raw link to your image.
         Example: https://raw.githubusercontent.com/aakhalidhruv28/Quote-Generator/main/light-mode-screenshot.png
       -->
-      <img src="[YOUR_LIGHT_MODE_SCREENSHOT_LINK_HERE]" alt="Light Mode Screenshot">
+      <img src="./light-theme.png" alt="Light Mode Screenshot">
     </td>
   </tr>
 </table>
