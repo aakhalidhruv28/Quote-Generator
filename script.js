@@ -14,7 +14,7 @@ const exportBtn = document.getElementById("exportBtn");
 const favoriteList = document.getElementById("favoriteList");
 const emptyFavoritesMsg = document.getElementById("empty-favorites-msg");
 
-// --- API & STATE ---
+// --- API & STATE --- 
 const apiKey = "YOUR_API_KEY_HERE"; // YOUR_API_KEY_HERE // Use environment variables in a real app! 
 const model = "meta-llama/llama-3.3-70b-instruct:free";
 let currentQuote = "";
@@ -34,7 +34,6 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // --- CORE FUNCTIONS ---
-
 async function generateQuote() {
   const query = document.getElementById('search').value.trim();
   const category = document.getElementById('category').value;
