@@ -345,4 +345,3 @@ function updateThemeIcon(isLight) {
   icon.classList.toggle("fa-sun", isLight);
   icon.classList.toggle("fa-moon", !isLight);
 }
- 
