@@ -321,7 +321,6 @@ function exportFavorites() {
   URL.revokeObjectURL(url);
 }
 
-
 // --- THEME MANAGEMENT --- (No changes here)
 
 function toggleTheme() {
